@@ -1,4 +1,4 @@
 # Vislice
-# Janez Janša
+# Borut Pahor
 # Jurij Vega
 # Janez Peterle
