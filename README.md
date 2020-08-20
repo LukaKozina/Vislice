@@ -1,4 +1,4 @@
 # Vislice
-# Heeeee
+# Janez Janša
 # Jurij Vega
 # Janez Peterle
