@@ -1,4 +1,4 @@
 # Vislice
-# Heeeee
+# Borut Pahor
 # Jurij Vega
 # Janez Peterle
